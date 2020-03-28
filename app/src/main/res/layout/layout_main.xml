@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="edu.fszy.bruce.layoutdemo.MainActivity">
+
+    <!--以下5个按钮分别进入不同的Layout，共同的响应函数是MainActivity中的MyOnClick方法。-->
+    <Button
+        android:id = "@+id/button_layoutmain_linearlayoutdemo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="MyOnClick"
+        android:text="@string/string_layoutmain_btn_linearlayoutdemo"
+        />
+    <Button
+        android:id = "@+id/button_layoutmain_relativelayoutdemo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="MyOnClick"
+        android:text="@string/string_layoutmain_btn_relativelayoutdemo"
+        />
+    <Button
+        android:id = "@+id/button_layoutmain_framelayoutdemo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="MyOnClick"
+        android:text="@string/string_layoutmain_btn_framelayoutdemo"
+        />
+    <Button
+        android:id = "@+id/button_layoutmain_tablelayoutdemo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="MyOnClick"
+        android:text="@string/string_layoutmain_btn_tablelayoutdemo"
+        />
+    <Button
+        android:id = "@+id/button_layoutmain_absoulutelayoutdemo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="MyOnClick"
+        android:text="@string/string_layoutmain_btn_absolutelayoutdemo"
+        />
+</LinearLayout>

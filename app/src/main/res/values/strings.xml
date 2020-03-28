@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LayoutDemo</string>
+    <string name="string_layoutmain_btn_linearlayoutdemo">LinearLayoutDemo</string>
+    <string name="string_layoutmain_btn_relativelayoutdemo">RelativeLayoutDemo</string>
+    <string name="string_layoutmain_btn_framelayoutdemo">FrameLayoutDemo</string>
+    <string name="string_layoutmain_btn_tablelayoutdemo">TableLayoutDemo</string>
+    <string name="string_layoutmain_btn_absolutelayoutdemo">AbsoluteLayoutDemo</string>
+    <string name="string_en_first">first</string>
+    <string name="string_en_second">second</string>
+    <string name="string_en_third">third</string>
+    <string name="string_en_fourthbutton">fourth\nbutton</string>
+    <string name="string_en_thisisfifthbutton">This is fifth button!</string>
+    <string name="string_en_button1">Button1</string>
+    <string name="string_en_button2">Button2</string>
+    <string name="string_en_button3">Button3</string>
+    <string name="stirng_chinese_zhengzhong">正中</string>
+    <string name="string_chinese_shangzhong">上中</string>
+    <string name="string_chinese_zuozhong">左中</string>
+    <string name="string_chinese_youzhong">右中</string>
+    <string name="string_chinese_xiazhong">下中</string>
+    <string name="string_chinese_zhengzhongkaoshang">正中靠上</string>
+    <string name="string_chinese_zhengzhongkaoxia">正中靠下</string>
+    <string name="string_chinese_zhengzhongkaozuo">正中靠左</string>
+    <string name="string_chinese_zhengzhongkaoyou">正中靠右</string>
+    <string name="string_chinese_huangse">黄色</string>
+    <string name="string_chinese_lvse">绿色</string>
+    <string name="string_chinese_hongse">红色</string>
+    <string name="string_chinese_tablelayoutfirstrow">直接放置控件独占一行</string>
+    <string name="string_chinese_putong">普通</string>
+    <string name="string_chinese_lashen">允许被拉伸</string>
+    <string name="string_chinese_200dp">宽度200DP的按钮</string>
+    <string name="string_chinese_shousuo200dp">宽度200DP允许被收缩的按钮</string>
+    <string name="string_chinese_2col">占2列</string>
+    <string name="string_chinese_4col">第4列</string>
+</resources>
